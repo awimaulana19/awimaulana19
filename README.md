@@ -5,8 +5,8 @@ My name is Awi Maulana. I'm from Indonesia, living in Makassar and currently stu
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=anasmubarakyasin&show_icons=true&include_all_commits=true&show=issues&theme=radical" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=awimaulana19&show_icons=true&include_all_commits=true&show=issues&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasmubarakyasin&theme=radical" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awimaulana19&theme=radical" />
 </a>
