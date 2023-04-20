@@ -8,3 +8,13 @@ I'm a web app programming enthusiast from Indonesia currently studying Informati
 - 💻 Focusing on Web App Programming
 
 Let's connect and collaborate on something awesome! 💪
+
+
+
+## &#x1f4c8; My GitHub Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=awimaulana19&show_icons=true&include_all_commits=true&show=issues&theme=gotham" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awimaulana19&layout=compact&theme=gotham" />
+</a>
